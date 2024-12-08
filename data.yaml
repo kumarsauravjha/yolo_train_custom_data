@@ -1,0 +1,5 @@
+train: D:/STUDY/MS/DATS 6450 Computer Vision/group assignment/Dataset/images/train_resized  # Path to the training images folder
+val: D:/STUDY/MS/DATS 6450 Computer Vision/group assignment/Dataset/images/val_resized      # Path to the validation images folder
+
+nc: 10      # Number of object classes
+names: ['lamp','display','cup','book','phone','painting','bottle','bag','speaker','human']  # List of class names (as strings)
