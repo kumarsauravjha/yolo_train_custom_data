@@ -15,9 +15,9 @@ This project demonstrates training and evaluating the YOLOv5 object detection mo
 - **Annotations**: YOLO-compatible format with normalized bounding box coordinates.
 
 Sample Original Images from dataset:
-![](original_image_18.jpeg)
+![](Assets/og_image/original_image_42.jpeg)
 
-![](original_image_39.jpeg)
+![](Assets/og_image/original_image_53.jpeg)
 
 ![](original_image_51.jpeg)
 ---
@@ -65,9 +65,9 @@ python detect.py --weights runs/train/exp3/weights/best.pt \
 
 Sample test images with generated labels:
 
-![](original_image_42.jpeg)
+![](Assets/labeled/original_image_42.jpeg)
 
-![](original_image_53.jpeg)
+![](Assets/labeled/original_image_53.jpeg)
 ---
 
 ## **Conclusion**
