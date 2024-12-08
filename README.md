@@ -17,6 +17,8 @@ This project demonstrates training and evaluating the YOLOv5 object detection mo
 Sample Original Images from dataset:
 ![](Assets/og_image/original_image_42.jpeg)
 
+![](Assets/og_image/augmented_image_1.jpeg)
+
 ![](Assets/og_image/original_image_53.jpeg)
 
 ![](original_image_51.jpeg)
@@ -66,6 +68,8 @@ python detect.py --weights runs/train/exp3/weights/best.pt \
 Sample test images with generated labels:
 
 ![](Assets/labeled/original_image_42.jpeg)
+
+![](Assets/labeled/augmented_image_1.jpeg)
 
 ![](Assets/labeled/original_image_53.jpeg)
 ---
